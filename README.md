@@ -6,7 +6,8 @@ http://metafont.vip 短域名:http://m-f.vip
 
 
 
-StableVicuna基于Vicuna-13B模型实现，是全球首个基于--RLHF人类反馈训练--的开源LLM模型。被业界视为：是自ChatGPT推出以来的第二个里程碑。
+StableVicuna基于Vicuna-13B模型实现，是全球首个基于--RLHF人类反馈训练--的开源LLM模型。
+被业界视为：是自ChatGPT推出以来的第二个里程碑。
 Alphca属于Facebook-LLAMA模型的二代优化版，Vicuna属于第四代优化版，Vicuna模型一处世，就把三代模型团灭。
 二代Alphca于四代Vicuna模型，因为应用场景不同，所以目前属于共生状态。
 7B二代Alphca模型，13B四代Vicuna模型，差别极大，类似中学生和研究生。
