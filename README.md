@@ -9,6 +9,10 @@ http://metafont.vip 短域名:http://m-f.vip
 StableVicuna基于Vicuna-13B模型实现，是全球首个基于--RLHF人类反馈训练--的开源LLM模型。
 
 被业界视为：是自ChatGPT推出以来的第二个里程碑。
+
+
+<img width="350" alt="gpt-llma23zw" src="https://user-images.githubusercontent.com/11691791/235558891-7e1e62f9-c01c-468c-91ef-a04f94c17dd0.png">
+
 Alphca属于Facebook-LLAMA模型的二代优化版，Vicuna属于第四代优化版，Vicuna模型一处世，就把三代模型团灭。
 二代Alphca于四代Vicuna模型，因为应用场景不同，所以目前属于共生状态。
 7B二代Alphca模型，13B四代Vicuna模型，差别极大，类似中学生和研究生。
@@ -79,7 +83,7 @@ StableVicuna，被视为目前当之无愧的开源GPT之王，zw团队推出的
 为方便国内广大个人用户，中小企业，创业团队，尽快体验GPT这一最新科技成果。
 m-f.vip元字库网站，近期，将率先在国内推出低成本的GPT”百元包月“服务，不限流量，任意使用。
 
-<img width="350" alt="gpt-llma23zw" src="https://user-images.githubusercontent.com/11691791/235558891-7e1e62f9-c01c-468c-91ef-a04f94c17dd0.png">
+
 
  ![mf_sam](https://user-images.githubusercontent.com/11691791/235558897-caec67a1-24aa-44bc-9ab9-66644585ff66.png)
 
