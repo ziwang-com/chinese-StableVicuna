@@ -1,9 +1,8 @@
 # chinese-StableVicuna
 全球首个StableVicuna中文优化版。
 http://metafont.vip 短域名:http://m-f.vip 
-![st-vic](https://user-images.githubusercontent.com/11691791/235558900-ad4fb599-fa2e-442c-92da-5a1d4e25d9de.png)
 
-
+![st-vic-qcod](https://user-images.githubusercontent.com/11691791/235562989-601c9ead-7732-4c56-b380-324f0866536e.png)
 
 
 StableVicuna基于Vicuna-13B模型实现，是全球首个基于--RLHF人类反馈训练--的开源LLM模型。
