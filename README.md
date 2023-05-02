@@ -98,12 +98,10 @@ StableVicuna，被视为目前当之无愧的开源GPT之王，zw团队推出的
 近期，zw团队正在升级m-f.vip元字库网站，尽快部署行业领先的：中文GPT和国际版GPT。
 为方便国内广大个人用户，中小企业，创业团队，尽快体验GPT这一最新科技成果。
 m-f.vip元字库网站，近期，将率先在国内推出低成本的GPT”百元包月“服务，不限流量，任意使用。
+![st-vic-qcod](https://user-images.githubusercontent.com/11691791/235562989-601c9ead-7732-4c56-b380-324f0866536e.png)
 
 
 
- ![mf_sam](https://user-images.githubusercontent.com/11691791/235558897-caec67a1-24aa-44bc-9ab9-66644585ff66.png)
-
-![zw-gpt-qcod](https://user-images.githubusercontent.com/11691791/235558903-0db31d90-d186-44fb-8e33-295bc76bf4e0.png)
 
 更多参见：
 http://ziwang.com 
@@ -118,6 +116,8 @@ http://metafont.vip
 “FB公司的SAM模型在汉字笔画切割的应用 vs MF团队的汉字基因图谱模型”
 
 这一没有硝烟的数字化pk，更深层的分析，大家可以自由发散、联想。对于国内企业，这也是AI的平型关战役。
+ ![mf_sam](https://user-images.githubusercontent.com/11691791/235558897-caec67a1-24aa-44bc-9ab9-66644585ff66.png)
+
 
 ![mf1280](https://user-images.githubusercontent.com/11691791/196892748-3f7144fa-1cc3-447d-b0e2-0355168fe062.png)
 MetaFont.vip 中文元宇宙的第一块硬核基石。
