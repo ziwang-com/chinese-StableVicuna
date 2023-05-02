@@ -14,8 +14,11 @@ StableVicuna基于Vicuna-13B模型实现，是全球首个基于--RLHF人类反�
 <img width="350" alt="gpt-llma23zw" src="https://user-images.githubusercontent.com/11691791/235558891-7e1e62f9-c01c-468c-91ef-a04f94c17dd0.png">
 
 Alphca属于Facebook-LLAMA模型的二代优化版，Vicuna属于第四代优化版，Vicuna模型一处世，就把三代模型团灭。
+
 二代Alphca于四代Vicuna模型，因为应用场景不同，所以目前属于共生状态。
+
 7B二代Alphca模型，13B四代Vicuna模型，差别极大，类似中学生和研究生。
+
 13B-alpaca模型，略弱于gpt3.5，而四代Vicuna模型，号称有gpt4.0九成功力，这个可能略有夸张，不过视为gpt3.7，3.8，还是名副其实的。
 
 GPT模型当中的idea“涌现”，类似生物的基因突变，起步就是13B四代Vicuna模型。
@@ -23,8 +26,8 @@ GPT模型当中的idea“涌现”，类似生物的基因突变，起步就是1
 为方便国内各大院校，创业团队，研究AIGC、GPT项目。
 zw元字库团队，通过集成大规模中文预料库，在行业率先完成了StableVicuna的中文优化版，并通过矢量化压缩，完成了GPU、CPU等不同版本的模型。
 
-zw元字库团队，推出的StableVicuna中文优化版，在中文细节，优于原版StableVicuna模型，语境、场景好多了，有点人情味了。
 
+zw元字库团队，推出的StableVicuna中文优化版，在中文细节，优于原版StableVicuna模型，语境、场景好多了，有点人情味了。
 
 
 问题#！： 如何在抖音快速推广电商产品 ?
