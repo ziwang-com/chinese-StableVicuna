@@ -22,9 +22,12 @@ Alphca属于Facebook-LLAMA模型的二代优化版，Vicuna属于第四代优化
 
 GPT模型当中的idea“涌现”，类似生物的基因突变，起步就是13B四代Vicuna模型。
 
+
 为方便国内各大院校，创业团队，研究AIGC、GPT项目。
 zw元字库团队，通过集成大规模中文预料库，在行业率先完成了StableVicuna的中文优化版，并通过矢量化压缩，完成了GPU、CPU等不同版本的模型。
 
+<img width="610" alt="zw-sdvc_20230502101659" src="https://user-images.githubusercontent.com/11691791/235565529-5be4fbdb-e876-4591-aed8-91c80116b426.png">
+ps，zw团队的StableVicuna中文优化版，居然是github首个StableVicuna项目，官方在hf发布了模型，github网站居然没有同步更新。
 
 zw元字库团队，推出的StableVicuna中文优化版，在中文细节，优于原版StableVicuna模型，语境、场景好多了，有点人情味了。
 
