@@ -7,9 +7,9 @@ http://metafont.vip 短域名:http://m-f.vip
 【2023-05-07】
 
 Stable-Vicuna不到一周，HF网站就涌现10个衍生版本。
-zw团队的StableVicuna中文优化版，是其中唯一的中文版本。。
+zw团队的StableVicuna中文优化版，是其中唯一的中文版本。
 
-这几天UC佰克利大学发布的开源模型排行榜，vicuna排名第一，相关衍生模型可能更多，特别是Stable-Vicuna系列。
+这几天UC佰克利大学发布的开源模型排行榜，vicuna-13B排名第一，相关衍生模型可能更多，特别是Stable-Vicuna系列。
 
 
 <img width="791" alt="zwvic-507" src="https://user-images.githubusercontent.com/11691791/236652692-326fe40d-72ac-4478-8db3-97fd7c0d153b.png">
@@ -18,13 +18,11 @@ zw团队的StableVicuna中文优化版，是其中唯一的中文版本。。
 
 
 zw中文优化版Stable-Vicuna模型，目前仅向合作伙伴提供： 
-
 联系方式： 
 微信：zwpython，或扫描二维码。
 QQ：357811718（zw字王） 
 
 联系信息注明：sv模型合作。 
-
 合作伙伴，请提供相关文字资料：
 团队核心成员简介，研究课题，合作方向，如有相关PPT资料更好。
 
