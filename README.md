@@ -20,11 +20,15 @@ https://huggingface.co/zwpython/stable-vicuna-13B-chinese
 
 
 zw中文优化版Stable-Vicuna模型，目前仅向合作伙伴提供： 
+
 联系方式： 
+
 微信：zwpython，或扫描二维码。
+
 QQ：357811718（zw字王） 
 
 联系信息注明：sv模型合作。 
+
 合作伙伴，请提供相关文字资料：
 团队核心成员简介，研究课题，合作方向，如有相关PPT资料更好。
 
