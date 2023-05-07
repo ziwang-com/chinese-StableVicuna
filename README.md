@@ -6,7 +6,7 @@ http://metafont.vip 短域名:http://m-f.vip
 
 【2023-05-07】
 
-Stable-Vicuna不到一周，HF网站就涌现10个衍生版本。
+Stable-Vicuna发布不到一周，HF网站就涌现10个衍生版本。
 zw团队的StableVicuna中文优化版，是其中唯一的中文版本。
 
 https://huggingface.co/zwpython/stable-vicuna-13B-chinese
