@@ -3,13 +3,20 @@
 http://metafont.vip 短域名:http://m-f.vip 
 
 ![st-vic-qcod](https://user-images.githubusercontent.com/11691791/235562989-601c9ead-7732-4c56-b380-324f0866536e.png)
-【5-7】Stable-Vicuna发布一周了，HF网站目前已有10个衍生版本，zw团队的StableVicuna中文优化版，是其中唯一的中文版本。
-https://huggingface.co/zwpython/stable-vicuna-13B-chinese
+
+【2023-05-07】
+Stable-Vicuna发布一周了，HF网站目前已有10个衍生版本，zw团队的StableVicuna中文优化版，是其中唯一的中文版本。
+
+
+
+<img width="791" alt="zwvic-507" src="https://user-images.githubusercontent.com/11691791/236652692-326fe40d-72ac-4478-8db3-97fd7c0d153b.png">
+
 
 
 zw中文优化版Stable-Vicuna模型，目前仅向合作伙伴提供： 
 联系方式： 微信：zwpython，或扫码HF账号头像二维码。 QQ：357811718（zw字王） 
 合作伙伴请提供相关文字资料：团队核心成员简介，研究课题，合作方向，如有相关PPT资料更好。
+
 ![qcod-zw200x](https://user-images.githubusercontent.com/11691791/236652627-76351e5d-68e8-43a5-98e6-5b837ae0a3f1.png)
 
 
