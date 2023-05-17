@@ -30,6 +30,7 @@ https://huggingface.co/zwpython/stable-vicuna-13B-chinese
 联系方式： 
 微信：zwpython，或扫描二维码。QQ：357811718（zw字王） 
 联系信息注明：sv模型合作。 
+
 ![qcod-zw200x](https://user-images.githubusercontent.com/11691791/236652627-76351e5d-68e8-43a5-98e6-5b837ae0a3f1.png)
 
 StableVicuna基于Vicuna-13B模型实现，是全球首个基于--RLHF人类反馈训练--的开源LLM模型。
