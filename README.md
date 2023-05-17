@@ -7,7 +7,7 @@ http://metafont.vip 短域名:http://m-f.vip
 **【2023-05-17】
 
 近日很多llm网友咨询zw-Stable-Vicuna，因为模型仍然在测试当中，目前只对合作伙伴提供，特别是学术方面有联合课题的合作伙伴。
-为方便国内llm其他共同进步，我们将公开其中的部分工程资料《zero-lora零训练llm调参算法》，供大家参考。
+为方便国内llm其他团队，共同进步，我们特意公开其中的部分工程资料《zero-lora零训练llm调参算法》，供大家参考。
 https://github.com/ziwang-com/zero-lora
 
 **【2023-05-07】
