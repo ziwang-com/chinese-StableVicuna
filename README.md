@@ -4,6 +4,11 @@ http://metafont.vip 短域名:http://m-f.vip
 
 ![st-vic-qcod](https://user-images.githubusercontent.com/11691791/235562989-601c9ead-7732-4c56-b380-324f0866536e.png)
 
+【2023-05-17】
+近日很多llm网友咨询zw-Stable-Vicuna，因为模型仍然在测试当中，目前只对合作伙伴提供，特别是学术方面有联合课题的合作伙伴。
+为方便国内llm其他共同进步，我们将公开其中的部分工程资料《zero-lora零训练llm调参算法》，供大家参考。
+https://github.com/ziwang-com/zero-lora
+
 【2023-05-07】
 
 Stable-Vicuna发布不到一周，HF网站就涌现10个衍生版本。
