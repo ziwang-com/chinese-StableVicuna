@@ -6,7 +6,7 @@ http://metafont.vip 短域名:http://m-f.vip
 
 **【2023-05-17】
 
-近日很多llm网友咨询zw-Stable-Vicuna，因为模型仍然在测试当中，目前只对合作伙伴提供，特别是学术方面有联合课题的合作伙伴。
+近日很多网友咨询zw-Stable-Vicuna，因为模型仍在测试，目前只对合作伙伴提供。
 为方便国内llm其他团队，共同进步，我们特意公开其中的部分工程资料《zero-lora零训练llm调参算法》，供大家参考。
 https://github.com/ziwang-com/zero-lora
 
@@ -25,19 +25,11 @@ https://huggingface.co/zwpython/stable-vicuna-13B-chinese
 ![v13-1st](https://user-images.githubusercontent.com/11691791/236652814-98b743d4-075a-450c-84ab-3f0b867ca299.png)
 
 
-zw中文优化版Stable-Vicuna模型，目前仅向合作伙伴提供： 
-
+近日很多网友咨询zw-Stable-Vicuna，模型仍在测试，目前只对合作伙伴提供。
+合作伙伴，请提供相关文字资料：团队核心成员简介，研究课题，合作方向，以及相关PPT资料。
 联系方式： 
-
-微信：zwpython，或扫描二维码。
-
-QQ：357811718（zw字王） 
-
+微信：zwpython，或扫描二维码。QQ：357811718（zw字王） 
 联系信息注明：sv模型合作。 
-
-合作伙伴，请提供相关文字资料：
-团队核心成员简介，研究课题，合作方向，如有相关PPT资料更好。
-
 ![qcod-zw200x](https://user-images.githubusercontent.com/11691791/236652627-76351e5d-68e8-43a5-98e6-5b837ae0a3f1.png)
 
 StableVicuna基于Vicuna-13B模型实现，是全球首个基于--RLHF人类反馈训练--的开源LLM模型。
