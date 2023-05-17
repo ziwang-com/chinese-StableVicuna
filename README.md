@@ -130,7 +130,8 @@ StableVicuna，被视为目前当之无愧的开源GPT之王，zw团队推出的
 近期，zw团队正在升级m-f.vip元字库网站，尽快部署行业领先的：中文GPT和国际版GPT。
 为方便国内广大个人用户，中小企业，创业团队，尽快体验GPT这一最新科技成果。
 m-f.vip元字库网站，近期，将率先在国内推出低成本的GPT”百元包月“服务，不限流量，任意使用。
-![st-vic-qcod](https://user-images.githubusercontent.com/11691791/235562989-601c9ead-7732-4c56-b380-324f0866536e.png)
+
+![zwgpt-pub_20230517161849](https://github.com/ziwang-com/zero-lora/assets/11691791/c692636d-139a-4da7-b9e9-d5bef98904d4)
 
 
 
