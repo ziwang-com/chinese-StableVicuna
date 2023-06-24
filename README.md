@@ -5,10 +5,24 @@ http://metafont.vip 短域名:http://m-f.vip
 ![st-vic-qcod](https://user-images.githubusercontent.com/11691791/235562989-601c9ead-7732-4c56-b380-324f0866536e.png)
 
 **【2023-06-24】
-![v33cn-tst23m624](https://github.com/ziwang-com/chinese-StableVicuna/assets/11691791/f205c816-2308-4610-82fb-aac6c3b0e4f0)
 全球首发，vicuna33B中文测试版ok，因为目前发布的母版是测试版，综合效果不如v13，但在逻辑上比v13强，耗时多一倍。
 v33模型文件33G，RTX4090单卡无法运行。测试用的是：12代i9，64G内存，基本上满载。
 因为是母版也是测试版，没有做矢量压缩版，等正式版本发布再说，目前只是测试技术工程流程ok。
+参见：
+
+https://huggingface.co/zwpython/zw-chinese-vicuna-33B
+
+https://github.com/ziwang-com/chinese-StableVicuna
+![v33hfred](https://github.com/ziwang-com/chinese-StableVicuna/assets/11691791/3f16bd96-4c68-4647-b6c0-4d2dc6785394)
+
+vicuna-33B，目前全球在HF发布模型也就两家，lmsys官方和活跃GPT-hacker团队：TheBloke，还有一个是误入：llama33B。
+我们算是全球第三家vicuna-33B，中文算是全球第一家。继v13中文版之后，zw团队继续领先。
+vicuna-33B中文版的快速推出，这个也是AGM权重图谱模型，zero lora零调参算法，在GPT项目工程方面的成功体现。
+为国内AI企业，初创团队，在算力不足的情况下，参与GPT项目研发，指出了一个全新的研究方向。
+更多参见：公众号
+
+![v33cn-tst23m624](https://github.com/ziwang-com/chinese-StableVicuna/assets/11691791/f205c816-2308-4610-82fb-aac6c3b0e4f0)
+
 
 **【2023-05-17】
 
