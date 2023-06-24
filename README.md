@@ -4,6 +4,12 @@ http://metafont.vip 短域名:http://m-f.vip
 
 ![st-vic-qcod](https://user-images.githubusercontent.com/11691791/235562989-601c9ead-7732-4c56-b380-324f0866536e.png)
 
+**【2023-06-24】
+![v33cn-tst23m624](https://github.com/ziwang-com/chinese-StableVicuna/assets/11691791/f205c816-2308-4610-82fb-aac6c3b0e4f0)
+全球首发，vicuna33B中文测试版ok，因为目前发布的母版是测试版，综合效果不如v13，但在逻辑上比v13强，耗时多一倍。
+v33模型文件33G，RTX4090单卡无法运行。测试用的是：12代i9，64G内存，基本上满载。
+因为是母版也是测试版，没有做矢量压缩版，等正式版本发布再说，目前只是测试技术工程流程ok。
+
 **【2023-05-17】
 
 近日很多网友咨询zw-Stable-Vicuna，因为模型仍在测试，目前只对合作伙伴提供。
