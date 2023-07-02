@@ -2,9 +2,10 @@
 全球首个StableVicuna中文优化版。
 http://metafont.vip 短域名:http://m-f.vip 
 
-![st-vic-qcod](https://user-images.githubusercontent.com/11691791/235562989-601c9ead-7732-4c56-b380-324f0866536e.png)
-
 ![zw-GPT三合一+群二维码](https://github.com/ziwang-com/chinese-StableVicuna/assets/11691791/629d33f7-1501-4fbc-b4c6-8b34e5384673)
+
+更多细节，参见公众号。欢迎加入：QQ群，微信群。
+微信群满，需先扫描：上图右下角二维码，+zw微信好友，拉人进群。
 
 **【2023-07-01】
 为庆祝建党102周年，响应国家AI大战略需求，提高国内AI、GPT初创团队的竞争力，不要输在起跑线上。
@@ -12,6 +13,7 @@ zw-vicuna-33B-cn中文汉化版，首度提供免费下载通道。
 huggingface、百度网盘在速度、文件大小方面的限制，只能放阿里云盘了，大家自己下载测试。
 zw-vicuna-33B-cn中文汉化版，阿里云盘下载网址：
 ![https://www.aliyundrive.com/s/9ULQn9f6m9m](https://www.aliyundrive.com/s/9ULQn9f6m9m)
+
 
 **【2023-06-24】
 全球首发，vicuna33B中文测试版ok，因为目前发布的母版是测试版，综合效果不如v13，但在逻辑上比v13强，耗时多一倍。
