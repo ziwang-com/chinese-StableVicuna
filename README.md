@@ -13,7 +13,7 @@ zw-vicuna-33B-cn中文汉化版，首度提供免费下载通道。
 huggingface、百度网盘在速度、文件大小方面的限制，只能放阿里云盘了，大家自己下载测试。
 zw-vicuna-33B-cn中文汉化版，阿里云盘下载网址：
 [https://www.aliyundrive.com/s/9ULQn9f6m9m](https://www.aliyundrive.com/s/9ULQn9f6m9m)
-
+zw-vicuna-33B-cn中文汉化版，ggml格式的cpu版本，llamacpp运行，win，linux，mac-os通吃。
 
 **【2023-06-24】
 全球首发，vicuna33B中文测试版ok，因为目前发布的母版是测试版，综合效果不如v13，但在逻辑上比v13强，耗时多一倍。
