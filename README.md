@@ -12,7 +12,7 @@ http://metafont.vip 短域名:http://m-f.vip
 zw-vicuna-33B-cn中文汉化版，首度提供免费下载通道。
 huggingface、百度网盘在速度、文件大小方面的限制，只能放阿里云盘了，大家自己下载测试。
 zw-vicuna-33B-cn中文汉化版，阿里云盘下载网址：
-![https://www.aliyundrive.com/s/9ULQn9f6m9m](https://www.aliyundrive.com/s/9ULQn9f6m9m)
+[https://www.aliyundrive.com/s/9ULQn9f6m9m](https://www.aliyundrive.com/s/9ULQn9f6m9m)
 
 
 **【2023-06-24】
