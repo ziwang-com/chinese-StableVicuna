@@ -11,12 +11,14 @@ http://metafont.vip 短域名:http://m-f.vip
 为庆祝建党102周年，响应国家AI大战略需求，提高国内AI、GPT初创团队的竞争力，不要输在起跑线上。
 zw-vicuna-33B-cn中文汉化版，首度提供免费下载通道。
 zw-vicuna-33B-cn中文汉化版，ggml格式的cpu版本，llamacpp运行，win，linux，mac-os通吃。更多细节，请参见lmsys官方​发布资料。
-百度网盘提取码：hiks 
-[链接：](https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks)
-如有更改，最新下载地址请参见QQ群文件：655402626（GPT+千人QQ大群）
-huggingface下载网址：
-[](https://huggingface.co/zwpython/zw-chinese-vicuna-33B)
 
+百度网盘提取码：hiks 
+[链接：https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks](https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks)
+
+huggingface下载网址：
+[https://huggingface.co/zwpython/zw-chinese-vicuna-33B](https://huggingface.co/zwpython/zw-chinese-vicuna-33B)
+
+如有更改，最新下载地址请参见QQ群文件：655402626（GPT+千人QQ大群）
 
 **【2023-06-24】
 全球首发，vicuna33B中文测试版ok，因为目前发布的母版是测试版，综合效果不如v13，但在逻辑上比v13强，耗时多一倍。
