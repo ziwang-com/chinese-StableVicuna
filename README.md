@@ -9,7 +9,9 @@ http://metafont.vip 短域名:http://m-f.vip
 
 **【2023-07-01】
 为庆祝建党102周年，响应国家AI大战略需求，提高国内AI、GPT初创团队的竞争力，不要输在起跑线上。
+
 zw-vicuna-33B-cn中文汉化版，首度提供免费下载通道。
+
 zw-vicuna-33B-cn中文汉化版，ggml格式的cpu版本，llamacpp运行，win，linux，mac-os通吃。更多细节，请参见lmsys官方​发布资料。
 
 百度网盘提取码：hiks 
