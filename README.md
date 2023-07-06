@@ -2,25 +2,41 @@
 全球首个StableVicuna中文优化版。
 http://metafont.vip 短域名:http://m-f.vip 
 
-![zw-GPT三合一+群二维码](https://github.com/ziwang-com/chinese-StableVicuna/assets/11691791/629d33f7-1501-4fbc-b4c6-8b34e5384673)
 
-更多细节，参见公众号。欢迎加入：QQ群，微信群。
-微信群满，需先扫描：上图右下角二维码，+zw微信好友，拉人进群。
 
-**【2023-07-01】
-为庆祝建党102周年，响应国家AI大战略需求，提高国内AI、GPT初创团队的竞争力，不要输在起跑线上。
 
-zw-vicuna-33B-cn中文汉化版，首度提供免费下载通道。
-
-zw-vicuna-33B-cn中文汉化版，ggml格式的cpu版本，llamacpp运行，win，linux，mac-os通吃。更多细节，请参见lmsys官方​发布资料。
+## 【资源下载】
 
 百度网盘提取码：hiks 
 [链接：https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks](https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks)
 
 huggingface下载网址：
+
+
+如有更改，最新下载地址请参见: QQ群文件：655402626（GPT+千人QQ大群）
+
+更多细节，参见公众号。欢迎加入：QQ群，微信群。
+
+<img width="702" alt="gptx-3x1" src="https://github.com/ziwang-com/chinese-StableVicuna/assets/11691791/6d0707b2-9508-4025-90a8-1bab78e53879">
+
+**【2023-07-07】
+zw-vicuna-7B-cn-v1.3中文汉化版，全球首发。细节参见zw-v33B。
+[https://huggingface.co/zwpython/zw-chinese-vicuna-7B](https://huggingface.co/zwpython/zw-chinese-vicuna-7B)
+
+zw-vicuan中文汉化版“三套件”齐活。ps：zw-v13B，因为某些原因，没有提供下载。
+<img width="565" alt="zw-v3x" src="https://github.com/ziwang-com/chinese-StableVicuna/assets/11691791/00cc6800-55a4-4d99-be9e-b2a032417524">
+
+
+**【2023-07-01】
+为庆祝建党102周年，响应国家AI大战略需求，提高国内AI、GPT初创团队的竞争力，不要输在起跑线上。
+
+zw-vicuna-33B-cn中文汉化版，全球首发。
 [https://huggingface.co/zwpython/zw-chinese-vicuna-33B](https://huggingface.co/zwpython/zw-chinese-vicuna-33B)
 
-如有更改，最新下载地址请参见QQ群文件：655402626（GPT+千人QQ大群）
+zw-vicuna-33B-cn中文汉化版，ggml格式的cpu版本，llamacpp运行，win，linux，mac-os通吃。更多细节，请参见lmsys官方​发布资料。
+
+
+
 
 **【2023-06-24】
 全球首发，vicuna33B中文测试版ok，因为目前发布的母版是测试版，综合效果不如v13，但在逻辑上比v13强，耗时多一倍。
