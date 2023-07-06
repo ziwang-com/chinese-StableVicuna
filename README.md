@@ -19,7 +19,7 @@ http://metafont.vip 短域名:http://m-f.vip
 **【2023-07-07】
 zw-vicuna-7B-cn-v1.3中文汉化版，全球首发。细节参见zw-v33B。
 
-[https://huggingface.co/zwpython/zw-chinese-vicuna-7B](https://huggingface.co/zwpython/zw-chinese-vicuna-7B-v1.3)
+[https://huggingface.co/zwpython/zw-chinese-vicuna-7B-v1.3](https://huggingface.co/zwpython/zw-chinese-vicuna-7B-v1.3)
 
 zw-vicuan中文汉化版“三套件”齐活。ps：zw-v13B，因为某些原因，没有提供下载。
 <img width="565" alt="zw-v3x" src="https://github.com/ziwang-com/chinese-StableVicuna/assets/11691791/00cc6800-55a4-4d99-be9e-b2a032417524">
