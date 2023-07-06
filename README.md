@@ -18,6 +18,7 @@ http://metafont.vip 短域名:http://m-f.vip
 
 **【2023-07-07】
 zw-vicuna-7B-cn-v1.3中文汉化版，全球首发。细节参见zw-v33B。
+
 [https://huggingface.co/zwpython/zw-chinese-vicuna-7B](https://huggingface.co/zwpython/zw-chinese-vicuna-7B)
 
 zw-vicuan中文汉化版“三套件”齐活。ps：zw-v13B，因为某些原因，没有提供下载。
@@ -28,6 +29,7 @@ zw-vicuan中文汉化版“三套件”齐活。ps：zw-v13B，因为某些原�
 为庆祝建党102周年，响应国家AI大战略需求，提高国内AI、GPT初创团队的竞争力，不要输在起跑线上。
 
 zw-vicuna-33B-cn中文汉化版，全球首发。
+
 [https://huggingface.co/zwpython/zw-chinese-vicuna-33B](https://huggingface.co/zwpython/zw-chinese-vicuna-33B)
 
 zw-vicuna-33B-cn中文汉化版，ggml格式的cpu版本，llamacpp运行，win，linux，mac-os通吃。更多细节，请参见lmsys官方​发布资料。
