@@ -10,9 +10,6 @@ http://metafont.vip 短域名:http://m-f.vip
 百度网盘提取码：hiks 
 [链接：https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks](https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks)
 
-huggingface下载网址：
-
-
 如有更改，最新下载地址请参见: QQ群文件：655402626（GPT+千人QQ大群）
 
 更多细节，参见公众号。欢迎加入：QQ群，微信群。
